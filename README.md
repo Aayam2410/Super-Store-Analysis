@@ -4,7 +4,7 @@ Welcome to the Super Store Analysis project! In this project, we'll delve into t
 
 Table of Contents 📚
 
-Introduction
+Introduction 
 Data Cleaning and Preprocessing 🧹
 Feature Engineering 🔧
 Exploratory Data Analysis 📊
@@ -35,4 +35,4 @@ Remember, the possibilities are endless when you harness the power of data! 🌟
 
 Note: Insert the necessary image in the insert_image_here.jpg placeholder above to personalize the README with an appealing visual.
 
-Happy analyzing and boosting those sales! 🚀📊📈
+Happy analyzing and boosting those sales! 🚀📊📈                                                                
