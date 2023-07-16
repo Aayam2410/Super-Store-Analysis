@@ -2,6 +2,8 @@
 
 Welcome to the Super Store Analysis project! In this project, we'll delve into the world of data analysis using Python and various powerful libraries like pandas, matplotlib, and more. Our goal is to clean the data, perform feature engineering, and uncover valuable insights that can help boost the sales of our beloved electronic shop.
 
+-----------------------------------------------------------------------------------------------------------------------------------------------------
+
 Table of Contents 📚
 
 Introduction
@@ -15,6 +17,8 @@ Exploratory Data Analysis 📊
 Strategies for Increasing Sales 📈
 
 Conclusion 🏁
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------
 
 1. Introduction
 
@@ -39,6 +43,8 @@ Now comes the exciting part - devising strategies to boost sales at the Super St
 6. Conclusion 🏁
  
 We wrap up our analysis by summarizing our findings and emphasizing the impact that data analysis can have on driving business growth. The journey doesn't end here; it's an ongoing process of data exploration and continuous improvement.
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------
 
 Let's get started on this thrilling adventure of Super Store Analysis! Feel free to explore the codebase, dive into the visualizations, and extract valuable knowledge to create a thriving electronic shop. 🛍️💻
 
