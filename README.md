@@ -4,9 +4,9 @@ Welcome to the Super Store Analysis project! In this project, we'll delve into t
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------
 
-Table of Contents 📚
+Table of Contents 📚 :
 
-Introduction
+Introduction 🧾
 
 Data Cleaning and Preprocessing 🧹
 
@@ -20,7 +20,7 @@ Conclusion 🏁
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------
 
-1. Introduction
+1. Introduction 🧾
 
 The Super Store is a bustling hub of electronics enthusiasts, where a diverse range of products are sold. Our objective is to harness the power of data analysis to understand the store's performance, identify patterns, and propose actionable strategies to increase sales.
 
