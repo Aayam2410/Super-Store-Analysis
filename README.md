@@ -4,11 +4,16 @@ Welcome to the Super Store Analysis project! In this project, we'll delve into t
 
 Table of Contents 📚
 
-Introduction 
+Introduction
+
 Data Cleaning and Preprocessing 🧹
+
 Feature Engineering 🔧
+
 Exploratory Data Analysis 📊
+
 Strategies for Increasing Sales 📈
+
 Conclusion 🏁
 
 1. Introduction
